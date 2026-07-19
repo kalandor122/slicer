@@ -124,4 +124,4 @@ python main.py smile.svg --gcode smile.gcode --n 20
 
 The included `smile.svg` produces 32 curve segments. Sampled at 20 points each:
 
-![sample_smile.svg](smile.svg)
+![sample_smile.svg](sample_smile.svg)
